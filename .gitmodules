@@ -3,4 +3,4 @@
 	url = https://github.com/CodeCrafter47/TabOverlayCommon.git
 [submodule "minecraft-data-api"]
 	path = minecraft-data-api
-	url = https://github.com/CodeCrafter47/minecraft-data-api.git
+	url = https://github.com/Minebench/minecraft-data-api.git
